@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Logo.png" width="128" height="128" alt="Logo KDO-RG">
+  <img src="images/Logo.png" width="256" height="256" alt="Logo KDO-RG">
 </p>
 
 # Duplicate Media Finder
@@ -8,7 +8,7 @@ Fast and reliable duplicate file finder for Windows. Easily identify and remove 
 ---
 
 ## 🚀 Overview
-**Duplicate Media Finder** is a high-performance utility designed for users who need to clean up their storage and regain control over their file organization. Whether you are dealing with thousands of vacation photos, massive music libraries, or cluttered document folders, this tool provides a safe and efficient way to eliminate redundancy.
+**Duplicate Media Finder** (DMF) is a high-performance utility designed for users who need to clean up their storage and regain control over their file organization. Whether you are dealing with thousands of vacation photos, massive music libraries, or cluttered document folders, this tool provides a safe and efficient way to eliminate redundancy.
 
 ## ✨ Key Features
 *   **Precision Scanning:** Uses advanced comparison technology to find bit-for-bit identical files, even if they have different names.
@@ -16,6 +16,24 @@ Fast and reliable duplicate file finder for Windows. Easily identify and remove 
 *   **Smart Reorganization:** Move, rename, or group files after detection to better structure your folders.
 *   **Visual Preview:** Built-in previewer to check images and document properties before taking action.
 *   **Portable Utility:** No installation required. A single, lightweight executable that leaves no trace on your system registry.
+
+---
+
+## 👉 Duplicate Media Finder is available in three different editions:
+*   **DEMO Edition**  
+    Perfect for exploring the interface and testing the power of our detection algorithms. This version is intended for **technical evaluation** only and is not suitable for production use.
+
+*   **FREE Edition**  
+    A free, **100% functional** solution with no time limits or restrictions on the number of files processed. It allows you to permanently remove strictly identical duplicates.  
+    *Note: This version does not include advanced features such as similarity detection (for visually or audibly close images, videos, or music).*
+
+*   **PRO Edition**  
+    The ultimate version that unlocks **all features**, including advanced similarity detection, without any restrictions.  
+    👉 **[Purchase a PRO license on the official website](https://duplicate-media-finder.kdo-rg.com)**
+
+---
+
+
 
 ## 💾 Download Demo
 The latest demonstration version for Windows is available in the **Releases** section.
