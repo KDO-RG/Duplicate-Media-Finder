@@ -44,7 +44,7 @@ Fast and reliable duplicate file finder for Windows. Easily identify and remove 
 
 <br>
 
-Refer to the following comparison table to see the differences between the DEMO, FREE, and PRO editions: duplicate-media-finder.kdo-rg.com/dmf-versions.html
+Refer to the following [comparison table](https://duplicate-media-finder.kdo-rg.com/dmf-versions.html) to see the differences between the DEMO, FREE, and PRO editions: 
 
 ---
 
