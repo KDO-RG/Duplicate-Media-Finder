@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="images/Logo.png" width="256" height="256" alt="Logo KDO-RG">
+<p align="left">
+  <img src="Images/Logo.png" width="128" height="128" alt="Logo KDO-RG">
 </p>
 
 # Duplicate Media Finder
@@ -14,8 +14,19 @@ Fast and reliable duplicate file finder for Windows. Easily identify and remove 
 *   **Precision Scanning:** Uses advanced comparison technology to find bit-for-bit identical files, even if they have different names.
 *   **Media-Centric:** Optimized to handle large media formats (JPEG, PNG, RAW, MP3, MP4, etc.).
 *   **Smart Reorganization:** Move, rename, or group files after detection to better structure your folders.
+*   **Cloud Support:** Detect duplicates across all major cloud storage services.
+*   **Mobile Devices:** Detect also duplicates on connected smartphones and tablets.
 *   **Visual Preview:** Built-in previewer to check images and document properties before taking action.
-*   **Portable Utility:** No installation required. A single, lightweight executable that leaves no trace on your system registry.
+<br>
+
+*   ***More than just a duplicate finder:***
+*   **Avanced Filtering**: Use powerful filters to search for files based on specific criteria (size, date, extension, etc.).
+*   **Mass Renaming Module**: Includes an advanced renaming tool to organize your library efficiently.
+<br>
+  <p align="center">
+  <img src="Images/Screen01.png" width="400" height="300" alt="Screen01 KDO-RG">
+  <img src="Images/Screen02.png" width="400" height="300" alt="Screen01 KDO-RG">
+</p>
 
 ---
 
@@ -31,9 +42,11 @@ Fast and reliable duplicate file finder for Windows. Easily identify and remove 
     The ultimate version that unlocks **all features**, including advanced similarity detection, without any restrictions.  
     👉 **[Purchase a PRO license on the official website](https://duplicate-media-finder.kdo-rg.com)**
 
+<br>
+
+Refer to the following comparison table to see the differences between the DEMO, FREE, and PRO editions: duplicate-media-finder.kdo-rg.com/dmf-versions.html
+
 ---
-
-
 
 ## 💾 Download Demo
 The latest demonstration version for Windows is available in the **Releases** section.
@@ -55,7 +68,7 @@ The latest free version for Windows is available in the **Releases** section.
 4. Follow the simple on-screen instructions to start reorganizing your files.
 
 ## 💾 Download Pro
-
+**[Purchase a PRO license on the official website](https://duplicate-media-finder.kdo-rg.com)**
 
 ## 🛡️ Security & Privacy
 - **No Spyware / No Adware:** Duplicate Media Finder is a clean utility. It does not contain any malicious code or hidden tracking.
@@ -72,10 +85,11 @@ The latest free version for Windows is available in the **Releases** section.
 ## 📄 License & Terms
 **Copyright (c) 2026 KDO-RG. All rights reserved.**
 
-This repository provides the **demonstration version** of the software. 
+This repository provides the **demonstration/free version** of the software. 
 *   The source code is proprietary and is **not** included in this repository.
 *   You are authorized to use this demo for evaluation purposes.
-*   Redistribution of the demo executable is permitted, provided it remains unmodified.
+*   The free version is fully authorized for personal or commercial use.
+*   Redistribution of the demo/free executable is permitted, provided it remains unmodified.
 *   Reverse engineering or decompilation is strictly prohibited.
 
 ## 📬 Support
