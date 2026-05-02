@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Logo.png" width="128" height="128" alt="Logo KDO-RG">
+</p>
+
 # Duplicate Media Finder
 Fast and reliable duplicate file finder for Windows. Easily identify and remove identical files and similar documents (photos, images, music) to reclaim disk space. Take advantage of file management features to reorganize your files.
 
@@ -18,10 +22,22 @@ The latest demonstration version for Windows is available in the **Releases** se
 
 1. Go to the [**Releases**](../../releases) page.
 2. Download the installer for your system:
-   - **`DuplicateMediaFinder_DEMO_x64_v13.002_Setup`** (Recommended)
-   - **`DuplicateMediaFinder_DEMO_x32_v13.002_Setup`** (For 32-bit systems)
+   - **`DuplicateMediaFinder_DEMO_x64_v<Version>_Setup`** (Recommended)
+   - **`DuplicateMediaFinder_DEMO_x32_v<Version>_Setup`** (For 32-bit systems)
 3. Run the **Setup** installer.
 4. Follow the simple on-screen instructions to start reorganizing your files.
+
+## 💾 Download Free
+The latest free version for Windows is available in the **Releases** section.
+
+1. Go to the [**Releases**](../../releases) page.
+2. Download the installer for your system:
+   - **`DuplicateMediaFinder_FREE_x32_v<Version>_Setup`** (For 32-bit & 64-bit systems)
+3. Run the **Setup** installer.
+4. Follow the simple on-screen instructions to start reorganizing your files.
+
+## 💾 Download Pro
+
 
 ## 🛡️ Security & Privacy
 - **No Spyware / No Adware:** Duplicate Media Finder is a clean utility. It does not contain any malicious code or hidden tracking.
